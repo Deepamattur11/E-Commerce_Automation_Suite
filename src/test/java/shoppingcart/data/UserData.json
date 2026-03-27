@@ -1,0 +1,39 @@
+[
+{
+	"name":"Deepa",
+   "email": "deeps1747@gmail.com",
+   "pwd":"Deeps@1995",
+   "gender":"Mrs",
+   "day":"5",
+   "month":"February",
+   "year":"2021",
+   "firstname":"Deepa",
+   "lastname":"Mattur",
+   "address":"Jawahar Navodaya Vidyalaya Doddballapur",
+   "country":"India",
+   "state":"karnataka",
+   "city":"Bangalore",
+   "zipcode":"560006",
+   "mobilenumber":"8953689769"
+  
+},
+{
+	"name":"Satish",
+   "email": "sat1747@gmail.com",
+   "pwd":"sat@1994",
+   "gender":"Mr",
+   "day":"6",
+   "month":"February",
+   "year":"2020",
+   "firstname":"Satish",
+   "lastname":"Patil",
+   "address":"Jawahar Navodaya Vidyalaya Doddballapur",
+   "country":"India",
+   "state":"karnataka",
+   "city":"Bangalore",
+   "zipcode":"560006",
+   "mobilenumber":"8767899755"
+}
+]
+
+
